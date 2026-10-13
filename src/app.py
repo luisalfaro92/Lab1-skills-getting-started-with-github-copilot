@@ -39,6 +39,12 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
+        "Art Club": {
+        "description": "Explore drawing, painting, and sculpture",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": []
+    },
     "Soccer Team": {
         "description": "Practice team play and compete in local soccer matches",
         "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
